@@ -137,5 +137,25 @@
   {
     "ModuleName": "01725a5e-d06d-454e-ba18-6b6c0e11ece4",
     "ModuleType": 14
+  },
+  {
+    "ModuleName": "表2_详情页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "8B4433AD-C706-4\\WDAGUtilityAccount",
+      "Email": "wendy.wang@grapecity.com"
+    },
+    "LockDateTime": "2021-10-11T11:15:26.1359252+08:00",
+    "ModuleType": 1
+  },
+  {
+    "ModuleName": "表2_列表页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "8B4433AD-C706-4\\WDAGUtilityAccount",
+      "Email": "wendy.wang@grapecity.com"
+    },
+    "LockDateTime": "2021-10-11T11:15:26.1359252+08:00",
+    "ModuleType": 1
   }
 ]
