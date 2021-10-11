@@ -148,5 +148,15 @@
     },
     "LockDateTime": "2021-10-11T11:21:34.7921081+08:00",
     "ModuleType": 15
+  },
+  {
+    "ModuleName": "TaskScheduler/计划任务1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\WendyWang",
+      "Email": "wendy.wang@grapecity.com"
+    },
+    "LockDateTime": "2021-10-11T11:21:42.9151855+08:00",
+    "ModuleType": 16
   }
 ]
