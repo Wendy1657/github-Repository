@@ -1,17 +1,7 @@
 [
   {
     "ModuleName": "Table/表1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\WendyWang",
-      "Email": "wendy.wang@grapecity.com"
-    },
-    "LockDateTime": "2021-10-11T11:38:42.8992681+08:00",
     "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\表1.json",
-      "ForguncyDB.sqlite3"
-    ],
     "ExclusiveType": 0
   },
   {
@@ -153,16 +143,5 @@
   {
     "ModuleName": "Upload",
     "ModuleType": 26
-  },
-  {
-    "ModuleName": "Table/表2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\WendyWang",
-      "Email": "wendy.wang@grapecity.com"
-    },
-    "LockDateTime": "2021-10-11T11:38:42.8992681+08:00",
-    "ModuleType": 7,
-    "ExclusiveType": 0
   }
 ]
