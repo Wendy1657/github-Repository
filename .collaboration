@@ -158,5 +158,15 @@
     },
     "LockDateTime": "2021-10-11T11:21:42.9151855+08:00",
     "ModuleType": 16
+  },
+  {
+    "ModuleName": "PageReport/报表1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\WendyWang",
+      "Email": "wendy.wang@grapecity.com"
+    },
+    "LockDateTime": "2021-10-11T11:22:10.9768364+08:00",
+    "ModuleType": 17
   }
 ]
