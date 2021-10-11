@@ -141,33 +141,15 @@
   },
   {
     "ModuleName": "PCPage/页面2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\WendyWang",
-      "Email": "wendy.wang@grapecity.com"
-    },
-    "LockDateTime": "2021-10-11T11:40:41.0885037+08:00",
     "ModuleType": 1
   },
   {
     "ModuleName": "Table/表1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\WendyWang",
-      "Email": "wendy.wang@grapecity.com"
-    },
-    "LockDateTime": "2021-10-11T11:40:49.0722+08:00",
     "ModuleType": 7,
     "ExclusiveType": 0
   },
   {
     "ModuleName": "PCPage/页面3",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\WendyWang",
-      "Email": "wendy.wang@grapecity.com"
-    },
-    "LockDateTime": "2021-10-11T11:40:59.1518919+08:00",
     "ModuleType": 1
   }
 ]
